@@ -2,7 +2,7 @@
 
 ### Reporting a Vulnerability
 
-We take security seriously. We encourage responsible disclosure of security vulnerabilities via [Issues](https://github.com/your-username/Personal-Portfolio-Website/issues) tab on GitHub. We appreciate your efforts to disclose the issue responsibly and will work to acknowledge and address it promptly.
+We take security seriously. We encourage responsible disclosure of security vulnerabilities via [Issues](https://github.com/rishibharadwajsai/Personal-Portfolio-Website/issues) tab on GitHub. We appreciate your efforts to disclose the issue responsibly and will work to acknowledge and address it promptly.
 
 ### Scope
 
@@ -33,4 +33,4 @@ We kindly ask that you refrain from disclosing a security vulnerability publicly
 
 ### Contact
 
-For any questions or to report a security vulnerability, please contact us via [Issues](https://github.com/your-username/Personal-Portfolio-Website/issues).
+For any questions or to report a security vulnerability, please contact us via [Issues](https://github.com/rishibharadwajsai/Personal-Portfolio-Website/issues).
