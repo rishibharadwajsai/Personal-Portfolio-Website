@@ -41,7 +41,7 @@ Thank you for considering contributing to this project! Contributions are welcom
 
 ### Issues
 
-- You can contribute by reporting bugs or suggesting improvements by [creating an issue](https://github.com/your-username/Personal-Portfolio-Website/issues).
+- You can contribute by reporting bugs or suggesting improvements by [creating an issue](https://github.com/rishibharadwajsai/Personal-Portfolio-Website/issues).
 
 ### Code of Conduct
 
